@@ -1,0 +1,13 @@
+<Version=1.0>
+<Environment=
+	<Name="TinySquirrelFramework">
+	<Authors="Astrofra">
+	<Description="New project">
+	<Copyright="Copyright 2012">
+	<ScriptUnit=
+		<Script="scripts/project.nut">
+		<Class="ProjectHandler">
+	>
+	<Include>
+	<SearchPaths>
+>
